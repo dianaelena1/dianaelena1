@@ -1,11 +1,10 @@
 ## **About me**
-:pushpin: Associate IT Consultant at msg Romania
-:mortar_board: Phd Student at Technical University of Cluj-Napoca
-:pushpin: I am eager to learn anything
+!:pushpin: Associate IT Consultant at msg Romania
+!:mortar_board: Phd Student at Technical University of Cluj-Napoca
+!:pushpin: I am eager to learn anything
 
 
 ## **Social Links**
-
 * [*Linkedin*](https://www.linkedin.com/in/diana-elena-horincar/)
 ![MyImage](https://media-exp1.licdn.com/dms/image/C4E03AQGivP8ge9iVmw/profile-displayphoto-shrink_400_400/0/1633933301718?e=1643241600&v=beta&t=AqNit7HyaEZVHfhBhx0QokbikVgXu3IyfonpCKLnIHw)
 
