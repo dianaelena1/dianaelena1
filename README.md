@@ -1,5 +1,5 @@
 ## **About me**
-:pushpin: Associate IT Consultant at msg Romania \
+:pushpin: Associate IT Consultant at msg-systems Romania \
 :mortar_board: Phd Student at Technical University of Cluj-Napoca\
 :pushpin: I am eager to learn anything
 
