@@ -12,8 +12,9 @@
 | Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 |
 | Row 4, Column 1 | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 |
 
+## **GitHub stats**
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianaelena1&show_icons=true&theme=tokyonight)
 
-  [![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## **Social Links**
