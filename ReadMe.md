@@ -22,7 +22,7 @@
 ![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianaelena1&show_icons=true&theme=tokyonight)
 
 
-## **Social Links**
+## **Reach out to me**
 
 ![alt text][2.1]
 ![alt text][3.1]
