@@ -1,7 +1,7 @@
 ## **About me**
 :pushpin: Associate IT Consultant at msg-systems Romania \
 :mortar_board: Phd Student at Technical University of Cluj-Napoca\
-:pushpin: I am eager to learn anything\
+:pushpin: Eager to learn anything\
 :rocket: My goal for 2022 is to get better at JavaScript and other Front-End technologies
 
 
