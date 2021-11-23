@@ -6,10 +6,10 @@
 
 
 ## **Projects**
-| AuroraPhoenix| Column 2 | Column 3 | Column 4 |
+|AuroraPhoenix | AuroraPhoenix | Column 3 | Column 4 |
 | :--- | :--- | :--- | :---
 |![Title of image](https://p4.wallpaperbetter.com/wallpaper/730/605/86/vaporwave-synthwave-retrowave-city-outrun-hd-wallpaper-preview.jpg) | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 | Row 2, Column 4 |
+|JavaScript, HTML, CSS  | | Row 2, Column 3 | Row 2, Column 4 |
 | Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 |
 | Row 4, Column 1 | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 |
 
