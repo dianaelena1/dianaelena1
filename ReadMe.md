@@ -6,12 +6,11 @@
 
 
 ## **Projects**
-|AuroraPhoenix | Chromatick | Mario with JavaScript | Column 4 |
+|AuroraPhoenix | Chromatick | Mario with JavaScript | MyPortofolio |
 | :--- | :--- | :--- | :---
-|![Title of image](https://github.com/dianaelena1/images/blob/main/2.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/images/blob/main/1.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/images/blob/main/180-1804530_mario-logo-png-circle-transparent-png.png?raw=true) | Row 1, Column 4 |
-| HTML, CSS, JavaScript, Bootstrap | HTML, CSS, JavaScript, Firebase, Angular, Android, PHP| HTML, CSS, JavaScript | Row 2, Column 4 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 |
-| Row 4, Column 1 | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 |
+|![Title of image](https://github.com/dianaelena1/images/blob/main/2.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/images/blob/main/1.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/images/blob/main/180-1804530_mario-logo-png-circle-transparent-png.png?raw=true) | ![Title of image](https://github.com/dianaelena1/images/blob/main/20.PNG?raw=true) |
+| HTML, CSS, Bootstrap | HTML, CSS, JavaScript,  Angular| HTML, CSS | HTML, CSS |
+| JavaScript | Firebase, Android, PHP | JavaScript | JavaScript |
 
 ## **Most used**
 
