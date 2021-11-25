@@ -6,10 +6,10 @@
 
 
 ## **Projects**
-|AuroraPhoenix | AuroraPhoenix | Column 3 | Column 4 |
+|AuroraPhoenix | Chromatik | Mario with JavaScript | Column 4 |
 | :--- | :--- | :--- | :---
-|![Title of image](https://p4.wallpaperbetter.com/wallpaper/730/605/86/vaporwave-synthwave-retrowave-city-outrun-hd-wallpaper-preview.jpg) | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 |
-|JavaScript, HTML, CSS  | | Row 2, Column 3 | Row 2, Column 4 |
+|![Title of image](https://github.com/dianaelena1/images/blob/main/2.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/images/blob/main/1.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/images/blob/main/180-1804530_mario-logo-png-circle-transparent-png.png?raw=true) | Row 1, Column 4 |
+|JavaScript, HTML, CSS | | HTML, CSS, JavaScript, Firebase, Angular, Android, PHP | Row 2, Column 3 | Row 2, Column 4 |
 | Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 |
 | Row 4, Column 1 | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 |
 
