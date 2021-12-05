@@ -8,7 +8,7 @@
 ## **Projects**
 |AuroraPhoenix | Chromatick | Mario with JavaScript | MyPortofolio |
 | :--- | :--- | :--- | :---
-|![Title of image](https://github.com/dianaelena1/images/blob/main/2.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/images/blob/main/1.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/images/blob/main/180-1804530_mario-logo-png-circle-transparent-png.png?raw=true) | ![Title of image](https://github.com/dianaelena1/images/blob/main/20.PNG?raw=true) |
+|![Title of image](![image](https://github.com/dianaelena1/dianaelena1/blob/main/2.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/1.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/4.png?raw=true) | ![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/3.PNG?raw=true) |
 | HTML, CSS, Bootstrap | HTML, CSS, JavaScript,  Angular| HTML, CSS | HTML, CSS |
 | JavaScript | Firebase, Android, PHP | JavaScript | JavaScript |
 
