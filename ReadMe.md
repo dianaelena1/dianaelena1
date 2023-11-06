@@ -3,7 +3,7 @@
 :pushpin: IT Consultant at msg-systems Romania \
 :mortar_board: Phd Student at Technical University of Cluj-Napoca\
 :pushpin: I’m eager to collaborate with other content creators\
-:rocket: My goal for 2023 is to get better at JavaScript and other Front-End technologies
+:rocket: My goal for 2023 is to get better at JavaScript and other FrontEnd technologies
 
 
 ## **Projects**
