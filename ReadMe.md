@@ -7,9 +7,9 @@
 
 
 ## **Projects**
-|Iadu.ro |AuroraPhoenix | Chromatick | Mario with JavaScript | MyPortofolio |
+|Iadu.ro | Chromatick | Mario with JavaScript | MyPortofolio |
 | :--- | :--- | :--- | :--- | :---
-|![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/2.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/1.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/4.png?raw=true) | ![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/3.PNG?raw=true) |
+|![Title of image]([https://github.com/dianaelena1/dianaelena1/blob/main/2.PNG?raw=true](https://github.com/dianaelena1/iadu.ro/blob/main/iadu.ro.png)) |![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/1.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/4.png?raw=true) | ![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/3.PNG?raw=true) |
 | HTML, CSS, Bootstrap | HTML, CSS, JavaScript,  Angular| HTML, CSS | HTML, CSS |
 | JavaScript | Firebase, Android, PHP | JavaScript | JavaScript |
 
