@@ -7,7 +7,7 @@
 
 
 ## **Projects**
-|AuroraPhoenix | Chromatick | Mario with JavaScript | MyPortofolio |
+|Iadu.ro |AuroraPhoenix | Chromatick | Mario with JavaScript | MyPortofolio |
 | :--- | :--- | :--- | :---
 |![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/2.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/1.PNG?raw=true) |![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/4.png?raw=true) | ![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/3.PNG?raw=true) |
 | HTML, CSS, Bootstrap | HTML, CSS, JavaScript,  Angular| HTML, CSS | HTML, CSS |
