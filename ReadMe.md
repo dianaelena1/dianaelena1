@@ -1,7 +1,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 ## **About me**
 :pushpin: Senior IT Consultant at msg-systems Romania \
-:mortar_board: Phd Student at Technical University of Cluj-Napoca\
+:mortar_board: PhD Student at Technical University of Cluj-Napoca\
 :pushpin: I’m eager to collaborate with other content creators\
 :rocket: My goal for 2025 is to get better at Front/Back end technologies
 
