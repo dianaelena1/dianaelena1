@@ -11,8 +11,8 @@
 | Iadu.ro | Chromatick | Mario with JavaScript | OS |
 | :--- | :--- | :--- | :--- |
 | ![Title of image](https://github.com/dianaelena1/iadu.ro/blob/main/iadu.ro.png) | ![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/1.PNG?raw=true) | ![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/4.png?raw=true) | ![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/3.PNG?raw=true) |
-| HTML, CSS, Bootstrap | HTML, CSS, JavaScript, Angular | HTML, CSS | Unix, Bash, C |
-| Typescript | Firebase, Android, PHP | JavaScript | Shell Scripting |
+| HTML, CSS, Bootstrap | HTML, CSS, JavaScript, Angular | HTML, CSS | Unix, Shell Scripting, C |
+| Typescript | Firebase, Android, PHP | JavaScript | Operating systems |
 
 ### Languages and Tools:
 
