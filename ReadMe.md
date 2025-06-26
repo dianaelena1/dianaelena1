@@ -10,7 +10,7 @@
 
 | Iadu.ro | Chromatick | Mario with JavaScript | OS |
 | :--- | :--- | :--- | :--- |
-| ![Title of image](https://github.com/dianaelena1/iadu.ro/blob/main/iadu.ro.png) | ![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/1.PNG?raw=true) | ![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/4.png?raw=true) | ![Title of image](https://repository-images.githubusercontent.com/179385712/a9379a80-62ce-11ea-9fbf-2752c3b5f32e) |
+| ![Title of image](https://github.com/dianaelena1/iadu.ro/blob/main/iadu.ro.png) | ![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/1.PNG?raw=true) | ![Title of image](https://github.com/dianaelena1/dianaelena1/blob/main/4.png?raw=true) | ![Title of image]([https://repository-images.githubusercontent.com/179385712/a9379a80-62ce-11ea-9fbf-2752c3b5f32e](https://github.com/dianaelena1/dianaelena1/blob/main/Screenshot%202025-06-26%20075003%20(1).png)) |
 | HTML, CSS, Bootstrap, TypeScript | HTML, CSS, JavaScript, Angular, Firebase, Android, PHP | HTML, CSS, JavaScript | Unix, Shell Scripting, C |
 | Frontend | Frontend | Frontend | Operating systems |
 
